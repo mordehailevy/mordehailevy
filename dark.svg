@@ -160,35 +160,35 @@
       <text x="534" y="154" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#F8FAFC">I'm Mordeh<tspan fill="url(#accentGrad)" filter="url(#textGlow)">AI</tspan></text>
     </g><text x="534" y="200" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#22D3EE">> </text>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite" calcMode="discrete"/>
       <text x="559.8" y="200"
             font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#F8FAFC">Full-Stack Developer</text>
       <rect x="819.8" y="180" width="11" height="24" fill="#7C3AED">
-        <animate attributeName="opacity" values="1;0;1;0;1;0" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
       </rect>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite" calcMode="discrete"/>
       <text x="559.8" y="200"
             font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#F8FAFC">AI &amp; Automation Engineer</text>
       <rect x="871.4" y="180" width="11" height="24" fill="#7C3AED">
-        <animate attributeName="opacity" values="1;0;1;0;1;0" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
       </rect>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;0;0;0;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;0;0;0;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite" calcMode="discrete"/>
       <text x="559.8" y="200"
             font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#F8FAFC">n8n / LangChain / MCP Builder</text>
       <rect x="935.9" y="180" width="11" height="24" fill="#7C3AED">
-        <animate attributeName="opacity" values="1;0;1;0;1;0" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
       </rect>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;1;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;1;0;0" keyTimes="0.0000;0.0300;0.2250;0.2500;0.2800;0.4750;0.5000;0.5300;0.7250;0.7500;0.7800;0.9750;1.0000" dur="8.80s" repeatCount="indefinite" calcMode="discrete"/>
       <text x="559.8" y="200"
             font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#F8FAFC">Open Source Enthusiast</text>
       <rect x="845.6" y="180" width="11" height="24" fill="#7C3AED">
-        <animate attributeName="opacity" values="1;0;1;0;1;0" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
       </rect>
     </g>
     <g opacity="0" transform="translate(-14,0)">
