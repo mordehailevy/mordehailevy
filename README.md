@@ -31,13 +31,13 @@ I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm conti
 ## Current Focus
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square&labelColor=0F172A" alt="Artificial Intelligence">
-  <img src="https://img.shields.io/badge/Automation-22D3EE?style=flat-square&labelColor=0F172A" alt="Automation">
-  <img src="https://img.shields.io/badge/Claude%20Code-10B981?style=flat-square&labelColor=0F172A" alt="Claude Code">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0F172A" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=0F172A" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0F172A" alt="Python">
-  <img src="https://img.shields.io/badge/Developer%20Experience-A78BFA?style=flat-square&labelColor=0F172A" alt="Developer Experience">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat&logo=openai&logoColor=A78BFA&labelColor=0D1117" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=flat&logo=zapier&logoColor=22D3EE&labelColor=0D1117" alt="Automation">
+  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat&logo=anthropic&logoColor=D97757&labelColor=0D1117" alt="Claude Code">
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python">
+  <img src="https://img.shields.io/badge/Developer_Experience-0D1117?style=flat&logo=readthedocs&logoColor=A78BFA&labelColor=0D1117" alt="Developer Experience">
 </p>
 
 ---
@@ -45,84 +45,67 @@ I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm conti
 <!-- ═════════════════════════ FEATURED PROJECTS ══════════════════════ -->
 ## Featured Projects
 
-> Live project cards below pull **real** GitHub data (stars, forks, language). Nothing is hardcoded.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mordehailevy/travelhub-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=travelhub-ai&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="travelhub-ai repository card">
+      <a href="https://travelhub-ai-eight.vercel.app">
+        <img src="assets/proj-travelhub.svg" alt="TravelHub AI — AI-assisted travel planner" width="100%">
       </a>
-      <p>
+      <p align="center">
         AI-assisted travel planner that generates and organizes itineraries.<br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/AI%2FLLM-7C3AED?style=flat-square" alt="AI/LLM"><br>
-        <a href="https://travelhub-ai-eight.vercel.app">🔗 Live Demo</a> ·
+        <a href="https://travelhub-ai-eight.vercel.app"><b>Live Demo</b></a> ·
         <a href="https://github.com/mordehailevy/travelhub-ai">Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mordehailevy/MyMaasser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=MyMaasser&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="MyMaasser repository card">
+      <a href="https://mymaasser.com">
+        <img src="assets/proj-mymaasser.svg" alt="MyMaasser — income and tithing SaaS" width="100%">
       </a>
-      <p>
+      <p align="center">
         SaaS app to track income and tithing, with a Postgres-backed backend.<br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/SaaS-10B981?style=flat-square" alt="SaaS"><br>
-        <a href="https://mymaasser.com">🔗 Live Demo</a> ·
-        <a href="https://github.com/mordehailevy/MyMaasser">Code</a>
+        <a href="https://mymaasser.com"><b>Live Demo</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/mordehailevy/startup-stress-tester">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=startup-stress-tester&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="startup-stress-tester repository card">
+        <img src="assets/proj-stress-tester.svg" alt="Startup Stress-Tester — AI investor panel" width="100%">
       </a>
-      <p>
+      <p align="center">
         AI-powered investor panel that stress-tests startup ideas from multiple angles.<br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents"><br>
-        <a href="https://github.com/mordehailevy/startup-stress-tester">Code</a>
+        <a href="https://github.com/mordehailevy/startup-stress-tester"><b>Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mordehailevy/entrenous">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=entrenous&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="entrenous repository card">
+      <a href="https://entrenous.dev">
+        <img src="assets/proj-entrenous.svg" alt="EntreNous — full-stack web app" width="100%">
       </a>
-      <p>
+      <p align="center">
         Full-stack web app built with TypeScript and a Postgres backend.<br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
-        <a href="https://entrenous.dev">🔗 Live Demo</a> ·
+        <a href="https://entrenous.dev"><b>Live Demo</b></a> ·
         <a href="https://github.com/mordehailevy/entrenous">Code</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mordehailevy/crypto-tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=crypto-tracker&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="crypto-tracker repository card">
+      <a href="https://crypto-tracker-psi-ten.vercel.app">
+        <img src="assets/proj-crypto.svg" alt="Crypto Tracker — real-time market dashboard" width="100%">
       </a>
-      <p>
+      <p align="center">
         Real-time cryptocurrency tracking dashboard with live market data.<br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/REST%20API-22D3EE?style=flat-square" alt="REST API"><br>
-        <a href="https://crypto-tracker-psi-ten.vercel.app">🔗 Live Demo</a> ·
+        <a href="https://crypto-tracker-psi-ten.vercel.app"><b>Live Demo</b></a> ·
         <a href="https://github.com/mordehailevy/crypto-tracker">Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/mordehailevy/lesson61-agent-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=lesson61-agent-ai&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="lesson61-agent-ai repository card">
+        <img src="assets/proj-agent.svg" alt="Agent AI — autonomous tool-using workflows" width="100%">
       </a>
-      <p>
+      <p align="center">
         Experiment in autonomous, tool-using AI agent workflows.<br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents"><br>
-        <a href="https://github.com/mordehailevy/lesson61-agent-ai">Code</a>
+        <a href="https://github.com/mordehailevy/lesson61-agent-ai"><b>Code</b></a>
       </p>
     </td>
   </tr>
