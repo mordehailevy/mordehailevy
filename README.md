@@ -1,48 +1,132 @@
-<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="MordehAI — Full-Stack & AI Developer">
-</picture>
-
-<!-- ═══════════════════════════ TYPING + BADGES ═══════════════════════════ -->
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI+Developer;Building+AI-powered+automation;Turning+ideas+into+shipped+products" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack%20%26%20AI%20Development-John%20Bryce-7C3AED?style=flat-square&labelColor=0F172A" alt="Education" />
-  <img src="https://img.shields.io/badge/Based%20in-France%20%26%20Israël-22D3EE?style=flat-square&labelColor=0F172A" alt="Location" />
+<!-- ══════════════════════════════ HERO ══════════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img src="assets/hero-dark.svg" alt="Mordehai Levy — Full-Stack & AI Developer, based in Tel Aviv, Israel" width="100%">
+  </picture>
 </p>
 
-<p>
-  <a href="mailto:mordehai.levy@gmail.com"><img src="https://img.shields.io/badge/Email-mordehai.levy@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" /></a>
-  <a href="https://github.com/mordehailevy"><img src="https://img.shields.io/badge/GitHub-mordehailevy-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" /></a>
+<!-- ════════════════════════════ TERMINAL ════════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+    <img src="assets/terminal-dark.svg" alt="Terminal running whoami: Full Stack Developer, AI Engineer, Automation Developer, Claude Code Enthusiast, Always Building" width="100%">
+  </picture>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mordehailevy&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mordehailevy?label=Followers&style=flat-square&color=22D3EE&labelColor=0F172A" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mordehailevy?label=Stars&style=flat-square&color=10B981&labelColor=0F172A" alt="Stars" />
-</p>
+<!-- ════════════════════════════ ABOUT ME ════════════════════════════ -->
+## About
 
-</div>
+I build full-stack products end to end — from database and API to a polished interface.
+My focus is applied **AI** and **automation**: shipping features that remove real friction, not demos.
+I care about clean architecture, developer experience, and details that make software feel effortless.
+Lately I work a lot with **Claude Code** and the **Model Context Protocol (MCP)** to build agentic tooling.
+I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm continuously building in the open.
 
 ---
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## About
+<!-- ══════════════════════════ CURRENT FOCUS ═════════════════════════ -->
+## Current Focus
 
-I'm **MordehAI** — a **Full-Stack & AI Developer** who enjoys shipping real products end to end, from the database to the interface, with a strong focus on **AI-powered automation** and practical LLM-driven features.
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square&labelColor=0F172A" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Automation-22D3EE?style=flat-square&labelColor=0F172A" alt="Automation">
+  <img src="https://img.shields.io/badge/Claude%20Code-10B981?style=flat-square&labelColor=0F172A" alt="Claude Code">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0F172A" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=0F172A" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0F172A" alt="Python">
+  <img src="https://img.shields.io/badge/Developer%20Experience-A78BFA?style=flat-square&labelColor=0F172A" alt="Developer Experience">
+</p>
 
-- Trained in **Full-Stack & AI Development** at **John Bryce**.
-- Currently working as a **Développeur AI / Full-Stack @ M2N Energie**.
-- I build with a **product engineering mindset** — I care about UX, clean code, and things that actually ship.
-- Comfortable across the **TypeScript / React / Node** stack and integrating **AI agents & automation** into web apps.
+---
 
-> **Open to:** freelance & collaboration on full-stack and AI projects.
+<!-- ═════════════════════════ FEATURED PROJECTS ══════════════════════ -->
+## Featured Projects
+
+> Live project cards below pull **real** GitHub data (stars, forks, language). Nothing is hardcoded.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mordehailevy/travelhub-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=travelhub-ai&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="travelhub-ai repository card">
+      </a>
+      <p>
+        AI-assisted travel planner that generates and organizes itineraries.<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/AI%2FLLM-7C3AED?style=flat-square" alt="AI/LLM"><br>
+        <a href="https://travelhub-ai-eight.vercel.app">🔗 Live Demo</a> ·
+        <a href="https://github.com/mordehailevy/travelhub-ai">Code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mordehailevy/MyMaasser">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=MyMaasser&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="MyMaasser repository card">
+      </a>
+      <p>
+        SaaS app to track income and tithing, with a Postgres-backed backend.<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/SaaS-10B981?style=flat-square" alt="SaaS"><br>
+        <a href="https://mymaasser.com">🔗 Live Demo</a> ·
+        <a href="https://github.com/mordehailevy/MyMaasser">Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mordehailevy/startup-stress-tester">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=startup-stress-tester&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="startup-stress-tester repository card">
+      </a>
+      <p>
+        AI-powered investor panel that stress-tests startup ideas from multiple angles.<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents"><br>
+        <a href="https://github.com/mordehailevy/startup-stress-tester">Code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mordehailevy/entrenous">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=entrenous&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="entrenous repository card">
+      </a>
+      <p>
+        Full-stack web app built with TypeScript and a Postgres backend.<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
+        <a href="https://entrenous.dev">🔗 Live Demo</a> ·
+        <a href="https://github.com/mordehailevy/entrenous">Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mordehailevy/crypto-tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=crypto-tracker&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="crypto-tracker repository card">
+      </a>
+      <p>
+        Real-time cryptocurrency tracking dashboard with live market data.<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/REST%20API-22D3EE?style=flat-square" alt="REST API"><br>
+        <a href="https://crypto-tracker-psi-ten.vercel.app">🔗 Live Demo</a> ·
+        <a href="https://github.com/mordehailevy/crypto-tracker">Code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mordehailevy/lesson61-agent-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordehailevy&repo=lesson61-agent-ai&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" alt="lesson61-agent-ai repository card">
+      </a>
+      <p>
+        Experiment in autonomous, tool-using AI agent workflows.<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents"><br>
+        <a href="https://github.com/mordehailevy/lesson61-agent-ai">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,216 +135,98 @@ I'm **MordehAI** — a **Full-Stack & AI Developer** who enjoys shipping real pr
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="TypeScript, JavaScript, Python, HTML, CSS">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind, Vite">
 
-**Backend & Databases**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" alt="Backend & Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express">
 
-**AI, Cloud, DevOps & Tooling**
+**Database**
 
-<img src="https://skillicons.dev/icons?i=vercel,git,github,docker,figma,vscode" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" alt="PostgreSQL, MongoDB, Firebase, Supabase">
 
----
+**Cloud & DevOps**
 
-<!-- ═══════════════════════════ AI / ML FOCUS ═══════════════════════════ -->
-## AI / ML Focus
+<img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,git,github" alt="Vercel, Docker, GitHub Actions, Git, GitHub">
 
-| Domain | Level | Details |
-| :--- | :--- | :--- |
-| LLM App Development | Working | Building web apps powered by LLM APIs (chat, agents, generation) |
-| AI Agents & Automation | Working | Autonomous agent flows that automate multi-step tasks |
-| Prompt Engineering | Practicing | Designing structured, reliable prompts for production features |
-| AI + Full-Stack Integration | Working | Wiring AI features into React / Node / TypeScript products |
+**AI & Automation**
 
----
-
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-## Featured Projects
-
-<details open>
-<summary><b>🌍 travelhub-ai</b> — AI-assisted travel planning</summary>
-
-<br>
-
-An AI-powered travel companion that helps plan and organize trips.
-
-| Field | Detail |
-| :--- | :--- |
-| **Stack** | TypeScript · React · AI/LLM API |
-| **Focus** | Travel planning, AI-generated itineraries |
-| **Repository** | [mordehailevy/travelhub-ai](https://github.com/mordehailevy/travelhub-ai) |
-
-</details>
-
-<details>
-<summary><b>🚀 startup-stress-tester</b> — AI investor panel</summary>
-
-<br>
-
-An AI-powered investor panel that stress-tests startup ideas by challenging them from multiple investor perspectives.
-
-| Field | Detail |
-| :--- | :--- |
-| **Stack** | TypeScript · React · AI/LLM API |
-| **Focus** | Idea validation, multi-persona AI reasoning |
-| **Repository** | [mordehailevy/startup-stress-tester](https://github.com/mordehailevy/startup-stress-tester) |
-
-</details>
-
-<details>
-<summary><b>📈 crypto-tracker</b> — live crypto dashboard</summary>
-
-<br>
-
-A cryptocurrency tracking application with live market data.
-
-| Field | Detail |
-| :--- | :--- |
-| **Stack** | TypeScript · React · Public crypto API |
-| **Focus** | Real-time prices, portfolio tracking |
-| **Repository** | [mordehailevy/crypto-tracker](https://github.com/mordehailevy/crypto-tracker) |
-
-</details>
-
-<details>
-<summary><b>🤖 lesson61-agent-ai</b> — AI agent experiment</summary>
-
-<br>
-
-An AI agent project exploring autonomous, tool-using workflows.
-
-| Field | Detail |
-| :--- | :--- |
-| **Stack** | TypeScript · AI agent tooling |
-| **Focus** | Agent orchestration & automation |
-| **Repository** | [mordehailevy/lesson61-agent-ai](https://github.com/mordehailevy/lesson61-agent-ai) |
-
-</details>
-
-<details>
-<summary><b>🌦️ meteo-israel</b> — weather app</summary>
-
-<br>
-
-A clean weather application focused on Israeli cities.
-
-| Field | Detail |
-| :--- | :--- |
-| **Stack** | JavaScript · CSS · Weather API |
-| **Focus** | Responsive UI, live weather data |
-| **Repository** | [mordehailevy/meteo-israel](https://github.com/mordehailevy/meteo-israel) |
-
-</details>
-
-<details>
-<summary><b>🕒 world-time-app</b> — world clock</summary>
-
-<br>
-
-A world time application showing time across multiple zones.
-
-| Field | Detail |
-| :--- | :--- |
-| **Stack** | JavaScript · CSS |
-| **Focus** | Timezones, clean responsive layout |
-| **Repository** | [mordehailevy/world-time-app](https://github.com/mordehailevy/world-time-app) |
-
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude%20Code-7C3AED?style=for-the-badge" alt="Claude Code">
+  <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+</p>
 
 ---
 
-<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-## Experience
+<!-- ════════════════════════ LIVE GITHUB DATA ════════════════════════ -->
+## GitHub in Numbers
 
-**Développeur AI / Full-Stack** — *M2N Energie* · *2025 – Present*
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mordehailevy&show_icons=true&hide_border=true&count_private=true&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&bg_color=0F172A" alt="Mordehai Levy's live GitHub statistics">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mordehailevy&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=10B981&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=94A3B8&sideLabels=94A3B8" alt="Live GitHub contribution streak">
+</p>
 
-Building web applications and AI-assisted / automation features for the company's products.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordehailevy&layout=compact&hide_border=true&langs_count=8&title_color=7C3AED&text_color=94A3B8&bg_color=0F172A" alt="Most used languages, computed live from GitHub">
+</p>
 
-- Full-stack development across frontend and backend.
-- Integration of AI and automation into internal and client-facing tools.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mordehailevy&hide_border=true&bg_color=0F172A&color=F8FAFC&line=7C3AED&point=22D3EE&area=true&area_color=10B981" alt="Live GitHub contribution activity graph" width="100%">
+</p>
 
-`TypeScript` · `React` · `Node.js` · `AI / Automation`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mordehailevy/mordehailevy/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mordehailevy/mordehailevy/output/github-snake.svg">
+    <img alt="Contribution snake animation generated from live activity" src="https://raw.githubusercontent.com/mordehailevy/mordehailevy/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
-<!-- ═══════════════════════════ EDUCATION ═══════════════════════════ -->
+<!-- ═══════════════════════════ EDUCATION ════════════════════════════ -->
 ## Education
 
-**Full-Stack & AI Development** — *John Bryce*
-
-Intensive training covering modern web development (JavaScript/TypeScript, React, Node) and applied AI development.
-
----
-
-<!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mordehailevy&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&bg_color=0F172A" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mordehailevy&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=10B981&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=94A3B8&sideLabels=94A3B8" alt="GitHub Streak" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordehailevy&layout=compact&hide_border=true&title_color=7C3AED&text_color=94A3B8&bg_color=0F172A&langs_count=8" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg">
+    <img src="assets/education-dark.svg" alt="John Bryce, Tel Aviv — Full Stack Development, Artificial Intelligence, Cloud Computing" width="100%">
+  </picture>
+</p>
 
 ---
 
-<!-- ═══════════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════════ -->
-## Contribution Activity
+<!-- ════════════════════════════ ROADMAP ═════════════════════════════ -->
+## Roadmap
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mordehailevy&hide_border=true&bg_color=0F172A&color=F8FAFC&line=7C3AED&point=22D3EE&area=true&area_color=10B981" alt="Activity Graph" />
-
-<br>
-
-<!-- Snake generated by GitHub Actions (see .github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mordehailevy/mordehailevy/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mordehailevy/mordehailevy/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mordehailevy/mordehailevy/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
-## Current Focus
-
-```yaml
-learning:   [ AI agents, advanced TypeScript, system design ]
-building:   [ AI-powered full-stack products, automation tools ]
-exploring:  [ LLM orchestration, prompt engineering ]
-open_to:    [ freelance, collaboration, full-stack & AI projects ]
+```text
+✔  Artificial Intelligence
+✔  Claude Code
+✔  MCP (Model Context Protocol)
+✔  SaaS
+⬜  Kubernetes
+⬜  Rust
+⬜  Mobile
 ```
 
 ---
 
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-## Connect
+<!-- ════════════════════════════ CONTACT ═════════════════════════════ -->
+## Contact
 
-<div align="center">
-
-<a href="mailto:mordehai.levy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/mordehailevy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
+<p>
+  <a href="https://github.com/mordehailevy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="mailto:mordehai.levy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mordehai Levy"></a>
+</p>
 
 ---
 
-<div align="center">
-
-<i>"Build things that ship, automate the rest."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=120&section=footer" alt="footer" width="100%" />
-
-</div>
+<p align="center"><sub>Built with care — clean code, real data, no filler.</sub></p>
