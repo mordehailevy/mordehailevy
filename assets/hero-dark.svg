@@ -1,7 +1,7 @@
 <!-- Hero banner (dark theme) — Mordehai Levy. Pure SVG + SMIL, no JS. -->
 <svg width="1200" height="340" viewBox="0 0 1200 340" fill="none"
      xmlns="http://www.w3.org/2000/svg" role="img"
-     aria-label="Mordehai Levy — Full-Stack & AI Developer">
+     aria-label="Mordehai Levy — Full-Stack &amp; AI Developer">
   <defs>
     <!-- Accent gradient, slowly animated -->
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
