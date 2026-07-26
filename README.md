@@ -213,17 +213,6 @@ Intensive training covering modern web development (JavaScript/TypeScript, React
 
 ---
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mordehailevy&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 <!-- ═══════════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════════ -->
 ## Contribution Activity
 
