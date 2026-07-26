@@ -148,21 +148,8 @@ I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm conti
 
 ---
 
-<!-- ════════════════════════ LIVE GITHUB DATA ════════════════════════ -->
-## GitHub in Numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mordehailevy&show_icons=true&hide_border=true&count_private=true&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&bg_color=0F172A" alt="Mordehai Levy's live GitHub statistics">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mordehailevy&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=10B981&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=94A3B8&sideLabels=94A3B8" alt="Live GitHub contribution streak">
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordehailevy&layout=compact&hide_border=true&langs_count=8&title_color=7C3AED&text_color=94A3B8&bg_color=0F172A" alt="Most used languages, computed live from GitHub">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mordehailevy&hide_border=true&bg_color=0F172A&color=F8FAFC&line=7C3AED&point=22D3EE&area=true&area_color=10B981" alt="Live GitHub contribution activity graph" width="100%">
-</p>
+<!-- ═════════════════════════ CONTRIBUTIONS ══════════════════════════ -->
+## Contributions
 
 <p align="center">
   <picture>
