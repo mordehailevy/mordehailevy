@@ -1,0 +1,52 @@
+<!-- Project thumbnail: RADAR. Theme-agnostic, pure SVG. -->
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="RADAR project card">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <radialGradient id="g" cx="0.9" cy="0.15" r="0.8">
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#F8FAFC" fill-opacity="0.05"/>
+    </pattern>
+    <clipPath id="c"><rect x="1" y="1" width="1598" height="358" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1600" height="360" fill="#020617"/>
+    <rect width="1600" height="360" fill="url(#dots)"/>
+    <rect width="1600" height="360" fill="url(#g)"/>
+    <rect width="8" height="360" fill="url(#a)"/>
+  </g>
+  <rect x="1" y="1" width="1598" height="358" rx="24" fill="none" stroke="#F8FAFC" stroke-opacity="0.08"/>
+
+  <g transform="translate(1290,180)">
+    <circle r="130" stroke="#22C55E" stroke-opacity="0.45" stroke-width="2"/>
+    <circle r="88" stroke="#22C55E" stroke-opacity="0.32" stroke-width="2"/>
+    <circle r="46" stroke="#22C55E" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M0 0 L0 -130 A130 130 0 0 1 112.6 -65 Z" fill="#22C55E" fill-opacity="0.28"/>
+    <circle cx="52" cy="-58" r="7" fill="#4ADE80"/>
+    <circle cx="-62" cy="40" r="5" fill="#4ADE80" fill-opacity="0.7"/>
+    <circle cx="30" cy="70" r="4" fill="#4ADE80" fill-opacity="0.5"/>
+    <circle r="6" fill="#4ADE80"/>
+  </g>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="56" y="92" font-size="15" font-weight="600" letter-spacing="3" fill="#4ADE80">FEATURED · AI MULTI-AGENT MARKET ANALYSIS</text>
+    <text x="56" y="160" font-size="64" font-weight="800" letter-spacing="10" fill="#F8FAFC">RADAR</text>
+    <text x="56" y="204" font-size="22" fill="#A3AEC2">~650 assets every night · ML retrained nightly · AI trading room · strict risk rules</text>
+  </g>
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="600">
+    <rect x="56" y="250" width="110" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="111" y="278" text-anchor="middle" fill="#86EFAC">Python</text>
+    <rect x="182" y="250" width="150" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="257" y="278" text-anchor="middle" fill="#86EFAC">scikit-learn</text>
+    <rect x="348" y="250" width="110" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="403" y="278" text-anchor="middle" fill="#7DD3FC">Claude</text>
+    <rect x="474" y="250" width="120" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="534" y="278" text-anchor="middle" fill="#7DD3FC">Next.js</text>
+  </g>
+</svg>

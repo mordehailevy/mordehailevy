@@ -29,8 +29,8 @@
         font-size="40" font-weight="800" fill="#F8FAFC">AI</text>
 
   <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
-    <text x="192" y="98" font-size="15" font-weight="600" letter-spacing="3" fill="#E879F9">AUTONOMOUS · TOOLS</text>
-    <text x="192" y="148" font-size="42" font-weight="800" fill="#F8FAFC">Agent AI</text>
+    <text x="192" y="98" font-size="15" font-weight="600" letter-spacing="3" fill="#E879F9">TOOL-CALLING AGENT</text>
+    <text x="192" y="148" font-size="42" font-weight="800" fill="#F8FAFC">LangGraph Agent</text>
   </g>
 
   <g font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="600">

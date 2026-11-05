@@ -23,7 +23,7 @@ I build full-stack products end to end — from database and API to a polished i
 My focus is applied **AI** and **automation**: shipping features that remove real friction, not demos.
 I care about clean architecture, developer experience, and details that make software feel effortless.
 Lately I work a lot with **Claude Code** and the **Model Context Protocol (MCP)** to build agentic tooling.
-I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm continuously building in the open.
+I completed the Full Stack & AI program at **John Bryce (Tel Aviv)** in November 2026 and I'm continuously building in the open.
 
 ---
 
@@ -46,6 +46,17 @@ I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm conti
 ## Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/mordehailevy/radar">
+        <img src="assets/proj-radar.svg" alt="RADAR — AI multi-agent market analysis" width="100%">
+      </a>
+      <p align="center">
+        Analyzes ~650 assets every night with a nightly-retrained ML model and a team of AI agents (Claude), then builds risk-controlled trade plans.<br>
+        <a href="https://github.com/mordehailevy/radar"><b>Project &amp; demo video</b></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://travelhub-ai-eight.vercel.app">
@@ -100,12 +111,12 @@ I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm conti
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mordehailevy/lesson61-agent-ai">
-        <img src="assets/proj-agent.svg" alt="Agent AI — autonomous tool-using workflows" width="100%">
+      <a href="https://github.com/mordehailevy/langgraph-ai-agent">
+        <img src="assets/proj-agent.svg" alt="LangGraph AI Agent — tool-calling agent" width="100%">
       </a>
       <p align="center">
-        Experiment in autonomous, tool-using AI agent workflows.<br>
-        <a href="https://github.com/mordehailevy/lesson61-agent-ai"><b>Code</b></a>
+        Tool-calling AI agent (LangGraph, LangChain) with live weather and product tools.<br>
+        <a href="https://github.com/mordehailevy/langgraph-ai-agent"><b>Code</b></a>
       </p>
     </td>
   </tr>
@@ -194,7 +205,8 @@ I studied Full Stack Development & AI at **John Bryce (Tel Aviv)** and I'm conti
 
 <p>
   <a href="https://github.com/mordehailevy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <a href="mailto:mordehai.levy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mordehai Levy"></a>
+  <a href="https://www.linkedin.com/in/mordehailevy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <a href="mailto:mordeh.ai@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Mordehai Levy"></a>
 </p>
 
 ---
