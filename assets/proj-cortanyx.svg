@@ -1,52 +1,53 @@
 <!-- Project thumbnail: Cortanyx. Theme-agnostic, pure SVG. -->
-<svg width="800" height="360" viewBox="0 0 800 360" fill="none"
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none"
      xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cortanyx project card">
   <defs>
     <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#A79DF5"/>
       <stop offset="1" stop-color="#4434A8"/>
     </linearGradient>
-    <radialGradient id="g" cx="0.85" cy="0.1" r="0.9">
-      <stop offset="0" stop-color="#8F84EE" stop-opacity="0.26"/>
+    <radialGradient id="g" cx="0.9" cy="0.15" r="0.8">
+      <stop offset="0" stop-color="#8F84EE" stop-opacity="0.25"/>
       <stop offset="1" stop-color="#8F84EE" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
       <circle cx="1.5" cy="1.5" r="1.5" fill="#F8FAFC" fill-opacity="0.05"/>
     </pattern>
-    <clipPath id="c"><rect x="1" y="1" width="798" height="358" rx="24"/></clipPath>
+    <clipPath id="c"><rect x="1" y="1" width="1598" height="358" rx="24"/></clipPath>
   </defs>
-
   <g clip-path="url(#c)">
-    <rect width="800" height="360" fill="#0F172A"/>
-    <rect width="800" height="360" fill="url(#dots)"/>
-    <rect width="800" height="360" fill="url(#g)"/>
+    <rect width="1600" height="360" fill="#020617"/>
+    <rect width="1600" height="360" fill="url(#dots)"/>
+    <rect width="1600" height="360" fill="url(#g)"/>
     <rect width="8" height="360" fill="url(#a)"/>
   </g>
-  <rect x="1" y="1" width="798" height="358" rx="24" fill="none" stroke="#F8FAFC" stroke-opacity="0.08"/>
+  <rect x="1" y="1" width="1598" height="358" rx="24" fill="none" stroke="#F8FAFC" stroke-opacity="0.08"/>
 
-  <rect x="56" y="56" width="104" height="104" rx="26" fill="url(#a)"/>
-  <g transform="translate(56 56) scale(1.04)">
-    <path d="M31.6 71.3V28.6L50 50l18.4-21.4v42.7" fill="none" stroke="#0F172A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-    <circle cx="31.6" cy="71.3" r="5.5" fill="#0F172A"/>
-    <circle cx="31.6" cy="28.6" r="5.5" fill="#0F172A"/>
-    <circle cx="50" cy="50" r="5.5" fill="#0F172A"/>
-    <circle cx="68.4" cy="28.6" r="5.5" fill="#0F172A"/>
-    <circle cx="68.4" cy="71.3" r="5.5" fill="#0F172A"/>
+  <g transform="translate(1290,180)">
+    <circle r="130" stroke="#8F84EE" stroke-opacity="0.32" stroke-width="2"/>
+    <g transform="translate(-105,-105) scale(2.1)">
+      <path d="M31.6 71.3V28.6L50 50l18.4-21.4v42.7" stroke="#A79DF5" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="31.6" cy="71.3" r="5.5" fill="#C4BDFA"/>
+      <circle cx="31.6" cy="28.6" r="5.5" fill="#C4BDFA"/>
+      <circle cx="50" cy="50" r="5.5" fill="#C4BDFA"/>
+      <circle cx="68.4" cy="28.6" r="5.5" fill="#C4BDFA"/>
+      <circle cx="68.4" cy="71.3" r="5.5" fill="#C4BDFA"/>
+    </g>
   </g>
 
   <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
-    <text x="192" y="98" font-size="15" font-weight="600" letter-spacing="3" fill="#C4BDFA">AI · FULL STACK</text>
-    <text x="192" y="148" font-size="42" font-weight="800" fill="#F8FAFC">Cortanyx</text>
+    <text x="56" y="92" font-size="15" font-weight="600" letter-spacing="3" fill="#C4BDFA">FULL STACK FINAL PROJECT · AI CHAT</text>
+    <text x="56" y="160" font-size="64" font-weight="800" letter-spacing="4" fill="#F8FAFC">Cortanyx</text>
+    <text x="56" y="204" font-size="22" fill="#A3AEC2">ChatGPT-style chat in any language · streaming answers · Stop and Regenerate · Hebrew right-to-left</text>
   </g>
-
   <g font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="600">
-    <rect x="56" y="240" width="100" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
-    <text x="106" y="268" text-anchor="middle" fill="#7DD3FC">React</text>
-    <rect x="172" y="240" width="120" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
-    <text x="232" y="268" text-anchor="middle" fill="#6EE7B7">FastAPI</text>
-    <rect x="308" y="240" width="100" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
-    <text x="358" y="268" text-anchor="middle" fill="#FCD34D">MySQL</text>
-    <rect x="424" y="240" width="110" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
-    <text x="479" y="268" text-anchor="middle" fill="#C4BDFA">OpenAI</text>
+    <rect x="56" y="250" width="100" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="106" y="278" text-anchor="middle" fill="#7DD3FC">React</text>
+    <rect x="172" y="250" width="120" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="232" y="278" text-anchor="middle" fill="#6EE7B7">FastAPI</text>
+    <rect x="308" y="250" width="100" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="358" y="278" text-anchor="middle" fill="#FCD34D">MySQL</text>
+    <rect x="424" y="250" width="110" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.06" stroke="#F8FAFC" stroke-opacity="0.14"/>
+    <text x="479" y="278" text-anchor="middle" fill="#C4BDFA">OpenAI</text>
   </g>
 </svg>

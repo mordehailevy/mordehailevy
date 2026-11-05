@@ -59,12 +59,12 @@ I completed the Full Stack & AI program at **John Bryce (Tel Aviv)** in November
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/mordehailevy/cortanyx">
+      <a href="https://cortanyx.vercel.app">
         <img src="assets/proj-cortanyx.svg" alt="Cortanyx — ChatGPT-style AI chat" width="100%">
       </a>
       <p align="center">
         ChatGPT-style chat in any language: streaming answers, Stop and Regenerate, right-to-left Hebrew and a history stored in MySQL. Full Stack final project at John Bryce.<br>
-        <a href="https://github.com/mordehailevy/cortanyx"><b>Code &amp; demo GIF</b></a>
+        <a href="https://cortanyx.vercel.app"><b>Live Demo</b></a>
       </p>
     </td>
   </tr>
